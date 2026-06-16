@@ -29,6 +29,9 @@ Sekvensieringsmodellen prioriterte først prosjekter med kritisk prioritet. Dere
 | A-Frame          | 400   | 160     | 240     |
 | Offshore Gangway | 310   | 0       | 310     |
 
+![Figur 2: Ressursbehov vs tildelt kapasitet](Figurer/kapasitet_vs_behov.png)
+
+**Figur 2:** Sammenligning av simulert ressursbehov og tildelt kapasitet per prosjekt.
 
 ## 8.4 Flaskehalsanalyse
 Analysen viser at engineeringkapasiteten representerer systemets primære flaskehals. Den totale kapasiteten på 1500 timer var utilstrekkelig til å dekke det samlede behovet på 2050 timer.
@@ -37,7 +40,6 @@ Analysen viser at engineeringkapasiteten representerer systemets primære flaske
 
 2050 - 1500 = 550 timer mangler
 
-## 8.5 Scenarioanalyse
 ## 8.5 Scenarioanalyse
 
 Scenarioanalysen sammenligner tre ulike strategier for ressursfordeling. Formålet er å undersøke hvordan ulike beslutningsregler påvirker manglende kapasitet og antall prosjekter med forsinkelsesrisiko.
